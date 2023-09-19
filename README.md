@@ -7,3 +7,5 @@ Funciones implementadas:
  * calcular la conversion de grados celsius a farenheit
  * calcular el valor del voltaje dadas la resistencia y la corriente
  * calcular el volumen de una esfera
+## Ejericios de control de flujo en JS
+ * Contiene algunos ejericios donde exploramos el funcionamiento de if-else y el switch
